@@ -7,7 +7,7 @@ const Navbar = () => {
         <span className="text-green-500"> &lt;</span>Pass
         <span className="text-green-500">OP/&gt;</span>
       </h1>
-      <a href="https://github.com/Dakshgupta177/Dakshgupta177" target="_blank">
+      <a href="https://github.com/Dakshgupta177" target="_blank">
         <button className="bg-green-500 p-3 flex justify-center items-center max-lg:rounded-2xl rounded-full max-md:h-10 ">
           <FaGithub />
           <span className="mx-2 text-lg max-sm:hidden ">GitHub</span>
